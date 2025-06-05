@@ -44,10 +44,12 @@ Non solo per fare, ma per capire.
 📌 _Chi entra qui, lo fa per costruire. Non per copiare._  
 📌 _Chi sbaglia, impara. Chi condivide, moltiplica._  
 📌 _Chi scrive codice, lascia tracce._
-<hr>
-`otn8ELTgFdDT6Sw6z+SHoA==`
-<hr>
 
+---
+
+<p align="center"><code><strong>otn8ELTgFdDT6Sw6z+SHoA==</strong></code></p>
+
+---
 
 ## 💬 Ispirazioni
 
@@ -65,4 +67,3 @@ Non solo per fare, ma per capire.
 
 > “Code is like humor. When you have to explain it, it’s bad.”  
 > — *Cory House*
-
