@@ -47,7 +47,8 @@ Non solo per fare, ma per capire.
 
 ---
 
-<p align="center"><code><strong>otn8ELTgFdDT6Sw6z+SHoA==</strong></code></p>
+<p align="center"><code><strong>💀🧿 otn8ELTgFdDT6Sw6z+SHoA== 🧿💀</strong></code></p>
+
 
 ---
 
