@@ -45,7 +45,7 @@ Non solo per fare, ma per capire.
 📌 _Chi sbaglia, impara. Chi condivide, moltiplica._  
 📌 _Chi scrive codice, lascia tracce._
 <hr>
-<p align="center"><strong>QPzS2xnTqPPL811spuHdBA==</strong></p>
+<p align="center"><strong>otn8ELTgFdDT6Sw6z+SHoA==</strong></p>
 <hr>
 ---
 
