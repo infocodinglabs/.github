@@ -21,6 +21,7 @@ E costruiamo per vedere dove la teoria fallisce.
 Siamo studenti, autodidatti, mentori, tecnici.  
 Ma prima di tutto, siamo persone curiose.  
 Sperimentiamo. Smontiamo. Analizziamo. Ricostruiamo.
+
 Non per gioco. Per crescita.
 
 Non leggiamo la documentazione solo per usarla.  
