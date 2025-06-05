@@ -44,9 +44,9 @@ Non solo per fare, ma per capire.
 📌 _Chi entra qui, lo fa per costruire. Non per copiare._  
 📌 _Chi sbaglia, impara. Chi condivide, moltiplica._  
 📌 _Chi scrive codice, lascia tracce._
-
-<p align="center"><strong>40fcd2db19d3a8f3cbf35dc6a6e1dd04</strong></p>
-
+<hr>
+<p align="center"><strong>QPzS2xnTqPPL811spuHdBA==</strong></p>
+<hr>
 ---
 
 ## 💬 Ispirazioni
